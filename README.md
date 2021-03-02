@@ -20,10 +20,6 @@ Aplicação desenvolvida durante o evento ministrado pela rocketseat chamado NLW
 
 Caso queira testar a aplicação click [aqui](https://moveit-next-seven-theta.vercel.app/)
 
-## 🎨 Layout
-
-![Layout do projeto](./public/Layout-moveit.png)
-
 ## 💻 Como utilizar
 
 ### Faça o clone do repositório
