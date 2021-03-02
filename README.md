@@ -22,7 +22,7 @@ Caso queira visualizar a aplicação click [aqui](https://moveit-next-seven-thet
 
 ## 🎨 Layout
 
-![Layout do projeto](./public/layout-moveit.png)
+![Layout do projeto](./public/Layout-moveit.png)
 
 ## 💻 Como utilizar
 
