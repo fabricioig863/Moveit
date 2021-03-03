@@ -18,7 +18,7 @@ Aplicação desenvolvida durante o evento ministrado pela rocketseat chamado NLW
 
 ## 🏃‍♂️ Demo
 
-Caso queira testar a aplicação click [aqui](https://moveit-next-seven-theta.vercel.app/)
+Caso queira visualizar a aplicação click [aqui](https://moveit-next-seven-theta.vercel.app/)
 
 ## 💻 Como utilizar
 
